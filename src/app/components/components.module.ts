@@ -4,6 +4,8 @@ import { CommonModule } from '@angular/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SearchResultItemComponent } from './search-result-item/search-result-item.component';
 import { AutocompleteFieldComponent } from './autocomplete-field/autocomplete-field.component';
+import { ToastWrapperComponent } from './toast-wrapper/toast-wrapper.component';
+import { ToastSampleComponent } from './toast-sample/toast-sample.component';
 
 @NgModule({
     imports: [
@@ -14,14 +16,19 @@ import { AutocompleteFieldComponent } from './autocomplete-field/autocomplete-fi
     ],
     declarations: [
         SearchResultItemComponent,
-        AutocompleteFieldComponent
+        AutocompleteFieldComponent,
+        ToastWrapperComponent,
+        ToastSampleComponent
     ],
     exports: [
         SearchResultItemComponent,
-        AutocompleteFieldComponent
+        AutocompleteFieldComponent,
+        ToastWrapperComponent,
+        ToastSampleComponent
     ],
     entryComponents: [
-        SearchResultItemComponent
+        SearchResultItemComponent,
+        ToastSampleComponent
     ]
 })
 export class ComponentsModule { }

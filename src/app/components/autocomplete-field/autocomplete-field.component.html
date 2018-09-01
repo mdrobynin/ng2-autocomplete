@@ -1,5 +1,6 @@
 <div class="autocomplete-field"  #autocompleteFieldContainer>
     <input type="text" [formControl]="currentValue"
+        (focus)="onFocus($event)" (blur)="onBlur($event)"
         class="autocomplete-field__input">
     <div class="autocomplete-field__options" *ngIf="options && options.length > 0 && isOptionsVisible && !optionRowComponent">
         <div class="autocomplete-field__option"

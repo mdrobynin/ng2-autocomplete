@@ -1,70 +1,46 @@
 import { Injectable } from '@angular/core';
+import { BehaviorSubject, Observable } from 'rxjs';
+import { IToastData } from '../interfaces/dynamic-component-data.interface';
+import { ToastSampleComponent } from '../components/toast-sample/toast-sample.component';
 
-@Injectable()
+@Injectable({
+    providedIn: 'root'
+})
 export class ToastService {
-    showDelayToast(text: string, delay: number) {
-        this.toast(text, delay);
+    private _toasts: BehaviorSubject<IToastData> = new BehaviorSubject<IToastData>(null);
+
+    public get toasts(): Observable<IToastData> {
+        return this._toasts.asObservable();
     }
 
-    getToastHTML(text: string, title: string): string {
-        return `<div class="content">
-            <div class="title">${title}</div>
-            <div class="text">${text}</div>
-        </div>`;
+    showSampleToast(delay: number = 3000) {
+        this._toasts.next({
+            delay,
+            component: ToastSampleComponent,
+            data: {
+                item: { delay },
+                callback: (event) => { console.log(event); }
+            }
+        });
     }
 
-    getErrorSnackbarHTML(): string {
-        return `<div class="error-snackbar">
-            <div class="error-snackbar__icon">
-                <i class="material-icons">
-                    feedback
-                </i>
-            </div>
-            <div class="error-snackbar__text">
-                We couldn't send a feedback request. Something went wrong
-            </div>
-            <div class="error-snackbar__retry">
-                Retry
-            </div>
-        </div>`;
+    showSuccessToast(delay: number = 5000) {
+
     }
 
-    getSuccessSnackbarHTML(fullName: string, avatar: string): string {
-        return `<div class="success-snackbar">
-            <div class="success-snackbar__icon">
-                <i class="material-icons">
-                    done
-                </i>
-            </div>
-            <div class="success-snackbar__text">
-                The feedback from
-                <img src="${avatar}" class="success-snackbar__avatar">
-                <div class="success-snackbar__full-name">${fullName}</div>
-                has been requested successfully
-            </div>
-        </div>`;
+    showWarningToast(delay: number = 5000) {
+
     }
 
-    showSuccessToast(text: string, title: string = 'Success!', delay: number = 5000) {
-        this.toast(this.getToastHTML(text, title), delay, 'toast-designed toast-success');
+    showErrorToast(delay: number = 5000) {
+
     }
 
-    showWarningToast(text: string, title: string = 'Warning!', delay: number = 5000) {
-        this.toast(this.getToastHTML(text, title), delay, 'toast-designed toast-warning');
-    }
+    showSuccessFeedbackSnackbar( delay: number = 5000): void {
 
-    showErrorToast(text: string, title: string = 'Error', delay: number = 5000) {
-        this.toast(this.getToastHTML(text, title), delay, 'toast-designed toast-error');
-    }
-
-    showSuccessFeedbackSnackbar(fullName: string, avatar: string, delay: number = 5000): void {
-        this.toast(this.getSuccessSnackbarHTML(fullName, avatar), delay);
     }
 
     showErrorFeedbackSnackbar(delay: number = 5000): void {
-        this.toast(this.getErrorSnackbarHTML(), delay);
-    }
 
-    private toast(...args: any[]) {
     }
 }

@@ -1,0 +1,43 @@
+.toast-sample {
+    width: 300px;
+    border: 1px solid #cacaca;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px 1px #cacaca;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 5px 0;
+    opacity: 1;
+    transition: height 0.1s ease-in, opacity 0.1s ease-out;
+    height: 0;
+    overflow: hidden;
+
+    &_visible {
+        height: 80px;
+    }
+
+    &_before-destroy {
+        opacity: 0;
+    }
+
+    button {
+        box-shadow: 0 0 5px 1px #888888;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px 10px;
+        font-size: 16px;
+        text-transform: uppercase;
+        font-weight: 600;
+        background-color: #ff8800;
+        color: #ffffff;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #EE8800;
+        }
+    }
+}

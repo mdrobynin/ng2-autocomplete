@@ -27,7 +27,7 @@ import {
     ValidatorFn
 } from '@angular/forms';
 import { Subscription } from 'rxjs';
-import { IAutocompleteItem } from '../../interfaces/autocomplete-item.interface';
+import { IDynamicComponentData } from '../../interfaces/dynamic-component-data.interface';
 
 @Component({
     selector: 'app-autocomplete-field',
@@ -119,20 +119,25 @@ export class AutocompleteFieldComponent
         }
     }
 
+    public onFocus(event: any): void {
+        this.focus.emit(event);
+        this._propagateTouch(this.currentValue.touched);
+    }
+
+    public onBlur(event: any): void {
+        this.blur.emit(event);
+        this._propagateTouch(this.currentValue.touched);
+    }
+
     private _onTouch(focusedState: boolean) {
         const changed = this.isFocused !== focusedState;
         this.isFocused = focusedState;
-        this.isFocused
-            ? this.focus.emit()
-            : this.blur.emit();
 
         if (changed) {
             this.isOptionsVisible = this.isFocused;
             this._forceDetectChanges();
             this._setAvailableOptions();
         }
-
-        this._propagateTouch(this.currentValue.touched);
     }
 
     private _initializeForm(): void {
@@ -169,8 +174,8 @@ export class AutocompleteFieldComponent
             const componentFactory = this.componentFactoryResolver.resolveComponentFactory(this.optionRowComponent);
             const componentRef = this.optionsContainer.createComponent(componentFactory);
 
-            (<IAutocompleteItem> componentRef.instance).item = option;
-            (<IAutocompleteItem> componentRef.instance).callback = (res) => {
+            (<IDynamicComponentData> componentRef.instance).item = option;
+            (<IDynamicComponentData> componentRef.instance).callback = (res) => {
                 this.optionSelected.emit(res);
                 this.isOptionsVisible = false;
             };

@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { ISuggestedResult } from './interfaces/suggest-result.interface';
 import { SearchResultItemComponent } from './components/search-result-item/search-result-item.component';
+import { ToastService } from './services/toast.service';
 
 @Component({
   selector: 'app-root',
@@ -8,6 +9,9 @@ import { SearchResultItemComponent } from './components/search-result-item/searc
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+
+    constructor(private toastService: ToastService) {}
+
     public options: ISuggestedResult[] = [
         {
             id: 'id1',
@@ -37,5 +41,9 @@ export class AppComponent {
 
     public handler(event: any): void {
         console.log(event);
+    }
+
+    public addSampleToast(): void {
+        this.toastService.showSampleToast();
     }
 }
