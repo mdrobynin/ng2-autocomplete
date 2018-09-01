@@ -1,0 +1,10 @@
+<div class="autocomplete-field">
+    <app-autocomplete-field
+        [options]="options"
+        [optionRowComponent]="optionRowComponent"
+        [canBeArbitrary]="true"
+        (focus)="handler($event)"
+        (blur)="handler($event)"
+        (optionSelected)="handler($event)">
+    </app-autocomplete-field>
+</div>

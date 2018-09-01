@@ -1,0 +1,42 @@
+@import "./assets/scss/variables";
+@import "./assets/scss/toast";
+@import "./assets/scss/inputs";
+
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+@font-face {
+    font-family: 'Nexa-rust';
+    src: url("./assets/fonts/nexa/nexa-rust.ttf") format("opentype");
+}
+
+.nexa-rust {
+    font-family: 'Nexa-rust', sans-serif;
+}
+
+.large-width {
+    margin: 0 auto;
+    width: $large-width;
+}
+
+.card-container {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    border-top: 8px solid rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+    0 1px 5px 0 rgba(0, 0, 0, 0.13);
+    border-radius: 4px 4px 2px 4px;
+}
+
+input {
+    outline: none;
+}

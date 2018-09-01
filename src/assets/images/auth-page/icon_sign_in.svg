@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="160px" height="190px" viewBox="0 0 160 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="148.571429" height="172.857143" rx="8"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.4095982%" id="linearGradient-4">
+            <stop stop-color="#5677FC" offset="0%"></stop>
+            <stop stop-color="#3F51B5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,8.00526796 C0,3.58408055 3.58967955,-9.89133907e-24 8.0098058,-4.31740435e-24 L104.283658,1.17087311e-22 L127.142857,22.8571429 L127.142857,153.430117 C127.142857,157.847541 123.559355,161.428571 119.141337,161.428571 L8.00151974,161.428571 C3.58240241,161.428571 0,157.849694 0,153.423303 L0,8.00526796 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.4095982%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E4E4E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.93708168%" x2="50%" y2="76.7127152%" id="linearGradient-8">
+            <stop stop-color="#42BD41" offset="0%"></stop>
+            <stop stop-color="#259B24" offset="52.3676658%"></stop>
+            <stop stop-color="#126B11" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="72.267618%" id="linearGradient-9">
+            <stop stop-color="#42BD41" offset="0%"></stop>
+            <stop stop-color="#259B24" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0903534%" y1="100%" x2="42.0903538%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#767676" offset="0%"></stop>
+            <stop stop-color="#BCBCBC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M45.7142857,2.00908738 C45.7142857,0.899499057 46.6063612,0 47.7109142,0 L112.289086,0 C113.391793,0 114.285714,0.886416435 114.285714,2.00908738 L114.285714,20.5747007 C114.285714,24.9911715 110.695563,28.5714286 106.285498,28.5714286 L53.7145019,28.5714286 C49.2961045,28.5714286 45.7142857,24.9817675 45.7142857,20.5747007 L45.7142857,2.00908738 Z" id="path-11"></path>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="68.5714286" height="28.5714286" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <linearGradient x1="42.0903538%" y1="0%" x2="42.0903534%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M112.857143,11.4635564 L112.857143,18.2446124 C112.857143,22.6066925 109.324057,26.1428571 104.963127,26.1428571 L55.0368725,26.1428571 C50.6771282,26.1428571 47.1428571,22.6008172 47.1428571,18.2512978 L47.1428571,10.3597384" id="path-14"></path>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="65.7142857" height="15.7831187" fill="white">
+            <use xlink:href="#path-14"></use>
+        </mask>
+    </defs>
+    <g id="Grid-Skilltree-Survey" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lib-signin-no-credentials" transform="translate(-560.000000, -87.000000)">
+            <g id="Group-6" transform="translate(560.000000, 87.000000)">
+                <rect id="Rectangle-8" fill="#3F51B5" x="2.0301221e-14" y="4" width="160" height="186" rx="12"></rect>
+                <g id="Group-2-+-Group-+-Group-Copy-+-Group-3-+-Group-3-Copy-+-Group-3-Copy-2-+-Group-3-Copy-3-+-Group-3-Copy-4-+-Group-3-Copy-6-+-Group-3-Copy-5-Mask" filter="url(#filter-1)" transform="translate(5.714286, 10.428571)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#5677FC" xlink:href="#path-2"></use>
+                    <g id="Group-2" mask="url(#mask-3)">
+                        <g transform="translate(39.445164, 108.510113) rotate(15.000000) translate(-39.445164, -108.510113) translate(11.945164, 76.010113)" id="leaf-blue">
+                            <g transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                <g id="Group">
+                                    <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                    <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                            <g transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                <g id="Group">
+                                    <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                    <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" mask="url(#mask-3)">
+                        <g transform="translate(58.928571, 98.500000) rotate(90.000000) translate(-58.928571, -98.500000) translate(31.428571, 66.000000)" id="leaf-blue">
+                            <g transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                <g id="Group">
+                                    <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                    <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                            <g transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                <g id="Group">
+                                    <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                    <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-Copy" mask="url(#mask-3)">
+                        <g transform="translate(25.252968, 69.818263) rotate(-60.000000) translate(-25.252968, -69.818263) translate(-2.247032, 37.318263)" id="leaf-blue">
+                            <g transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                <g id="Group">
+                                    <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                    <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                            <g transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                <g id="Group">
+                                    <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                    <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3" mask="url(#mask-3)">
+                        <g transform="translate(20.949369, 142.392298) rotate(45.000000) translate(-20.949369, -142.392298) translate(-33.550631, 83.392298)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy" mask="url(#mask-3)">
+                        <g transform="translate(66.678012, 137.399477) rotate(-45.000000) translate(-66.678012, -137.399477) translate(12.178012, 78.399477)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-2" mask="url(#mask-3)">
+                        <g transform="translate(132.428571, 134.071429) rotate(90.000000) translate(-132.428571, -134.071429) translate(77.928571, 75.071429)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-3" mask="url(#mask-3)">
+                        <g transform="translate(108.992981, 72.631213) rotate(-30.000000) translate(-108.992981, -72.631213) translate(54.492981, 13.631213)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-4" mask="url(#mask-3)">
+                        <g transform="translate(68.564410, 28.845499) rotate(30.000000) translate(-68.564410, -28.845499) translate(14.064410, -30.154501)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-6" mask="url(#mask-3)">
+                        <g transform="translate(118.845499, 23.841242) rotate(-60.000000) translate(-118.845499, -23.841242) translate(64.345499, -35.158758)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-5" mask="url(#mask-3)">
+                        <g transform="translate(13.820869, 34.542334) rotate(-45.000000) translate(-13.820869, -34.542334) translate(-40.679131, -24.457666)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf-blue" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.259165, 69.375007) rotate(90.000000) translate(-76.259165, -69.375007) translate(48.759165, 36.875007)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.583562, 40.693269) rotate(-60.000000) translate(-42.583562, -40.693269) translate(15.083562, 8.193269)">
+                                <g id="leaf-blue" transform="translate(37.974728, 42.939098) rotate(30.000000) translate(-37.974728, -42.939098) translate(30.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf-blue" transform="translate(17.168129, 30.600039) rotate(-15.000000) translate(-17.168129, -30.600039) translate(7.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#3F51B5" stroke-width="2" fill="#5677FC"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2-+-Group-+-Group-Copy-+-Group-3-+-Group-3-Copy-+-Group-3-Copy-2-+-Group-3-Copy-3-+-Group-3-Copy-4-+-Group-3-Copy-6-+-Group-3-Copy-5-Mask" transform="translate(15.714286, 14.714286)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="#EFEFEF" xlink:href="#path-5"></use>
+                    <g id="Group-4" mask="url(#mask-6)">
+                        <g transform="translate(-28.000000, 25.000000)">
+                            <g id="Group-2" transform="translate(57.697702, 79.661808) rotate(15.000000) translate(-57.697702, -79.661808) translate(29.840559, 46.804665)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group" transform="translate(76.571429, 68.571429) rotate(90.000000) translate(-76.571429, -68.571429) translate(48.714286, 35.714286)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy" transform="translate(43.240835, 41.267851) rotate(-60.000000) translate(-43.240835, -41.267851) translate(15.383692, 8.410708)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3" mask="url(#mask-6)">
+                        <g transform="translate(9.888708, 138.460137) rotate(45.000000) translate(-9.888708, -138.460137) translate(-45.111292, 78.460137)">
+                            <g id="Group-2-Copy" transform="translate(56.599725, 79.822529) rotate(15.000000) translate(-56.599725, -79.822529) translate(28.742582, 46.965386)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.902022, 68.732149) rotate(90.000000) translate(-76.902022, -68.732149) translate(49.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(43.571429, 41.428571) rotate(-60.000000) translate(-43.571429, -41.428571) translate(15.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy" mask="url(#mask-6)">
+                        <g transform="translate(57.031566, 134.174423) rotate(-45.000000) translate(-57.031566, -134.174423) translate(2.031566, 74.174423)">
+                            <g id="Group-2-Copy" transform="translate(56.599725, 79.822529) rotate(15.000000) translate(-56.599725, -79.822529) translate(28.742582, 46.965386)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.902022, 68.732149) rotate(90.000000) translate(-76.902022, -68.732149) translate(49.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(43.571429, 41.428571) rotate(-60.000000) translate(-43.571429, -41.428571) translate(15.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-2" mask="url(#mask-6)">
+                        <g transform="translate(122.428571, 129.785714) rotate(90.000000) translate(-122.428571, -129.785714) translate(67.928571, 70.785714)">
+                            <g id="Group-2-Copy" transform="translate(55.347187, 79.385120) rotate(15.000000) translate(-55.347187, -79.385120) translate(27.847187, 46.885120)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(75.902022, 68.732149) rotate(90.000000) translate(-75.902022, -68.732149) translate(48.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(42.571429, 41.428571) rotate(-60.000000) translate(-42.571429, -41.428571) translate(14.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-3" mask="url(#mask-6)">
+                        <g transform="translate(99.059969, 69.461524) rotate(-30.000000) translate(-99.059969, -69.461524) translate(44.059969, 9.461524)">
+                            <g id="Group-2-Copy" transform="translate(56.599725, 79.822529) rotate(15.000000) translate(-56.599725, -79.822529) translate(28.742582, 46.965386)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.902022, 68.732149) rotate(90.000000) translate(-76.902022, -68.732149) translate(49.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(43.571429, 41.428571) rotate(-60.000000) translate(-43.571429, -41.428571) translate(15.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-4" mask="url(#mask-6)">
+                        <g transform="translate(57.631397, 25.175810) rotate(30.000000) translate(-57.631397, -25.175810) translate(2.631397, -34.824190)">
+                            <g id="Group-2-Copy" transform="translate(56.599725, 79.822529) rotate(15.000000) translate(-56.599725, -79.822529) translate(28.742582, 46.965386)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.902022, 68.732149) rotate(90.000000) translate(-76.902022, -68.732149) translate(49.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(43.571429, 41.428571) rotate(-60.000000) translate(-43.571429, -41.428571) translate(15.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-6" mask="url(#mask-6)">
+                        <g transform="translate(109.461524, 20.488540) rotate(-60.000000) translate(-109.461524, -20.488540) translate(54.461524, -39.511460)">
+                            <g id="Group-2-Copy" transform="translate(56.599725, 79.822529) rotate(15.000000) translate(-56.599725, -79.822529) translate(28.742582, 46.965386)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.902022, 68.732149) rotate(90.000000) translate(-76.902022, -68.732149) translate(49.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(43.571429, 41.428571) rotate(-60.000000) translate(-43.571429, -41.428571) translate(15.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-5" mask="url(#mask-6)">
+                        <g transform="translate(4.174423, 31.317280) rotate(-45.000000) translate(-4.174423, -31.317280) translate(-50.825577, -28.682720)">
+                            <g id="Group-2-Copy" transform="translate(56.599725, 79.822529) rotate(15.000000) translate(-56.599725, -79.822529) translate(28.742582, 46.965386)">
+                                <g id="leaf_white" transform="translate(37.971610, 42.939098) rotate(30.000000) translate(-37.971610, -42.939098) translate(30.828753, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(17.165011, 30.600039) rotate(-15.000000) translate(-17.165011, -30.600039) translate(7.165011, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-2" transform="translate(76.902022, 68.732149) rotate(90.000000) translate(-76.902022, -68.732149) translate(49.044880, 35.875007)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Copy-3" transform="translate(43.571429, 41.428571) rotate(-60.000000) translate(-43.571429, -41.428571) translate(15.714286, 8.571429)">
+                                <g id="leaf_white" transform="translate(38.974728, 42.939098) rotate(30.000000) translate(-38.974728, -42.939098) translate(31.831871, 22.224812)">
+                                    <g id="Group">
+                                        <path d="M7,41 C7,41 14,32.5172414 14,21.2068966 C14,9.89655172 7,0 7,0 C7,0 1.95399252e-14,8.48275862 1.95399252e-14,21.2068966 C1.98325736e-14,33.9310345 7,41 7,41 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M7,39.5862069 L7,24.0344828" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                                <g id="leaf_white" transform="translate(18.168129, 30.600039) rotate(-15.000000) translate(-18.168129, -30.600039) translate(8.168129, 1.600039)">
+                                    <g id="Group">
+                                        <path d="M10,58 C10,58 20,46 20,30 C20,14 10,0 10,0 C10,0 2.84217094e-14,12 2.84217094e-14,30 C2.88397785e-14,48 10,58 10,58 Z" id="Path-9" stroke="#E5E5E5" stroke-width="2" fill="#FFFFFF"></path>
+                                        <path d="M10,56 L10,34" id="Path-10" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M120,14.7142857 L120,29.5956803 C120,34.0163377 123.583994,37.5999886 127.994324,37.5999886 L142.857155,37.5999886 L120,14.7142857 Z" id="Path-12" fill="#FFFFFF"></path>
+                <polygon id="Path-12" fill-opacity="0.3" fill="#000000" opacity="0.75" transform="translate(135.000006, 43.299994) scale(-1, -1) translate(-135.000006, -43.299994) " points="127.142857 37.5714286 127.142857 49.02856 142.857155 49.02856"></polygon>
+                <g id="Group-5" transform="translate(83.304277, 86.502824) rotate(-45.000000) translate(-83.304277, -86.502824) translate(32.304277, 51.502824)">
+                    <path d="M39.5097918,20.4053424 C39.5097918,14.0922455 44.6251497,8.97446921 50.9383632,8.97446921 L50.9383632,8.97446921 C57.2501889,8.97446921 62.3669346,14.0977963 62.3669346,20.4053424 L62.3669346,95.7263418 C62.3669346,102.039439 57.2515767,107.157215 50.9383632,107.157215 L50.9383632,107.157215 C44.6265375,107.157215 39.5097918,102.033888 39.5097918,95.7263418 L39.5097918,20.4053424 Z" id="Rectangle" fill="#000000" opacity="0.359999985" transform="translate(50.938363, 58.065842) rotate(90.000000) translate(-50.938363, -58.065842) "></path>
+                    <path d="M40.5199443,14.7484881 C40.5199443,8.4353912 45.6353022,3.31761496 51.9485158,3.31761496 L51.9485158,3.31761496 C58.2603415,3.31761496 63.3770872,8.44094209 63.3770872,14.7484881 L63.3770872,90.0694876 C63.3770872,96.3825845 58.2617293,101.500361 51.9485158,101.500361 L51.9485158,101.500361 C45.63669,101.500361 40.5199443,96.3770336 40.5199443,90.0694876 L40.5199443,14.7484881 Z" id="Rectangle" fill="url(#linearGradient-8)" transform="translate(51.948516, 52.408988) rotate(90.000000) translate(-51.948516, -52.408988) "></path>
+                    <path d="M0.836837768,12.9884053 C0.836837768,6.35657615 6.21026395,0.98041643 12.8343965,0.98041643 L11.6964219,0.98041643 C18.3224906,0.98041643 23.6939806,6.35957449 23.6939806,12.9745565 L23.6939806,53.5589293 C23.6939806,56.8687253 26.2644791,60.3229946 29.4427761,61.2764836 L37.9796949,63.8375593 L12.8447652,63.8375593 C6.21297,63.8375593 0.836837768,58.4648155 0.836837768,51.8295705 L0.836837768,12.9884053 Z" id="Rectangle" fill="url(#linearGradient-9)"></path>
+                </g>
+                <path d="M48.1428571,4 L116.714286,4 L116.714286,22.0047247 C116.714286,26.4203933 113.124134,30 108.71407,30 L56.1430733,30 C51.7246759,30 48.1428571,26.4121089 48.1428571,22.0047247 L48.1428571,4 Z" id="Rectangle-9-Copy" fill="#000000" opacity="0.200000003"></path>
+                <use id="Rectangle-9" stroke="url(#linearGradient-10)" mask="url(#mask-12)" stroke-width="8" xlink:href="#path-11"></use>
+                <use id="Rectangle-9" stroke="url(#linearGradient-13)" mask="url(#mask-15)" stroke-width="4" xlink:href="#path-14"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,62 @@
+@import "../../../assets/scss/variables";
+
+:host {
+    width: 100%;
+}
+
+.autocomplete-field {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    &__input {
+        width: 100%;
+        height: 100%;
+        padding: 0 8px;
+        margin: 0;
+        border: none;
+        background-color: $background-light;
+        border-radius: 5px;
+        font-size: $font-size-medium;
+        color: $default-black;
+
+        &:disabled {
+            border-bottom: 2px dotted $default-black;
+            background-color: #F5F5F5;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+
+        &:focus {
+            background-color: $background-white;
+            border: 1px solid $border-light;
+            border-bottom: 2px solid $default-orange;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+    }
+
+    &__options {
+        font-size: 15px;
+        position: absolute;
+        top: 48px;
+        border-bottom: 1px solid $border-light;
+        width: 100%;
+
+        &-container {
+            max-height: 200px;
+            overflow-y: auto;
+        }
+    }
+
+    &__option {
+        padding: 10px 20px;
+        background: #F0F0F0;
+        width: 100%;
+
+        &:hover {
+            background-color: #C0C0C0;
+            cursor: pointer;
+        }
+    }
+}

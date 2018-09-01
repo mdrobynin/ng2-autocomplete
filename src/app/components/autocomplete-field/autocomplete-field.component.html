@@ -1,0 +1,15 @@
+<div class="autocomplete-field"  #autocompleteFieldContainer>
+    <input type="text" [formControl]="currentValue"
+        class="autocomplete-field__input">
+    <div class="autocomplete-field__options" *ngIf="options && options.length > 0 && isOptionsVisible && !optionRowComponent">
+        <div class="autocomplete-field__option"
+                *ngFor="let filteredOption of filteredOptions"
+                (click)="selectOption(filteredOption)">
+                {{filteredOption}}
+            </div>
+    </div>
+    <div *ngIf="options && options.length > 0 && isOptionsVisible && optionRowComponent"
+        class="autocomplete-field__options" #optionsContainer>
+
+    </div>
+</div>

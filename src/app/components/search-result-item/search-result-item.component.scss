@@ -1,0 +1,51 @@
+@import "../../../assets/scss/variables";
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    background-color: $background-white;
+    font-size: $font-size-medium;
+    color: $font-color-dark;
+    border-bottom: 1px solid $border-light;
+
+    &__name {
+        flex: 0 0 150px;
+
+        &:hover {
+            cursor: pointer;
+            color: $default-orange;
+        }
+    }
+
+    &__id {
+        flex: 1 0 auto;
+        margin-left: 20px;
+        color: $font-color-light;
+    }
+
+    &__dots {
+        color: $font-color-light;
+        flex: 0 0 auto;
+        margin-left: auto;
+        opacity: 0;
+        display: flex;
+        user-select: none;
+
+        &:hover {
+            cursor: pointer;
+            color: $default-orange;
+        }
+    }
+
+    &:hover &__dots {
+        opacity: 1;
+    }
+
+    &__hint {
+        & li > a {
+            color: $font-color-dark;
+            font-weight: $font-weight-medium;
+        }
+    }
+}

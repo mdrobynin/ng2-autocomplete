@@ -1,0 +1,50 @@
+$large-width: 1232px;
+
+$shadow-color: rgba(0, 0, 0, 0.3);
+$shadow: drop-shadow(0 3px 20px rgba(0, 0, 0, 0.3));
+
+$modal-bg-color: #5377FC;
+
+@mixin box-shadow-light {
+    box-shadow: 0 0 5px 1px #EAEAEA;
+}
+
+$bar-color-green: #6FC449;
+$bar-color-red: #EB5B25;
+$bar-color-gray: #DBDBDB;
+
+$border-light: #EDEDED;
+
+$background-white: #FFFFFF;
+$background-light: #F6F6F6;
+
+$font-color-white: #FFFFFF;
+$font-color-light: #C4C4C4;
+$font-color-medium: #9D9D9D;
+$font-color-dark: #4A4A4A;
+
+$font-size-small: 12px;
+$font-size-medium: 16px;
+$font-size-large: 20px;
+
+$font-weight-medium: 300;
+$font-weight-bold: 500;
+
+$course-type-background-orange: #FEF4E6;
+$course-type-background-green: #E6FAF0;
+
+@mixin component-header {
+    font-size: 24px;
+    font-weight: 800;
+    color: $font-color-dark;
+}
+
+$default-black: #4A4A4A;
+$default-red: #EB5B25;
+$default-orange: #FF8700;
+$default-blue: #0069B4;
+$default-lightblue: #63B9E9;
+$default-green: #AAAA00;
+$default-forestgreen: #259B24;
+$default-lightgreen: #73d572;
+$default-gray: #C4C4C4;
